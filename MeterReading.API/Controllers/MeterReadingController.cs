@@ -1,16 +1,10 @@
-﻿using CsvHelper;
-using MeterReading.DataAccess.Models;
-using MeterReading.Logic.Contracts;
-using MeterReading.Logic.DomainModels;
+﻿using MeterReading.Logic.Contracts;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using static MeterReading.Logic.Helper.CsvHelper;
 
 namespace MeterReading.API.Controllers
 {
@@ -37,7 +31,6 @@ namespace MeterReading.API.Controllers
 
             // full path to file in temp location
             var filePath = Path.GetTempFileName();
-
 
             foreach (var formFile in files)
             {
