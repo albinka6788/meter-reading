@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Applabs Learning\\MeterReading\\MeterReading.API\\MeterReading.API.csproj": {}
+    "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.API\\MeterReading.API.csproj": {}
   },
   "projects": {
-    "C:\\Applabs Learning\\MeterReading\\MeterReading.API\\MeterReading.API.csproj": {
+    "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.API\\MeterReading.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Applabs Learning\\MeterReading\\MeterReading.API\\MeterReading.API.csproj",
+        "projectUniqueName": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.API\\MeterReading.API.csproj",
         "projectName": "MeterReading.API",
-        "projectPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.API\\MeterReading.API.csproj",
+        "projectPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.API\\MeterReading.API.csproj",
         "packagesPath": "C:\\Users\\KA Albin\\.nuget\\packages\\",
-        "outputPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.API\\obj\\",
+        "outputPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,11 +33,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj": {
-                "projectPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj"
+              "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj": {
+                "projectPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj"
               },
-              "C:\\Applabs Learning\\MeterReading\\MeterReading.Logic\\MeterReading.Logic.csproj": {
-                "projectPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.Logic\\MeterReading.Logic.csproj"
+              "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.Logic\\MeterReading.Logic.csproj": {
+                "projectPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.Logic\\MeterReading.Logic.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj": {
+    "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj",
+        "projectUniqueName": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj",
         "projectName": "MeterReading.DataAccess",
-        "projectPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj",
+        "projectPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj",
         "packagesPath": "C:\\Users\\KA Albin\\.nuget\\packages\\",
-        "outputPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\obj\\",
+        "outputPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Applabs Learning\\MeterReading\\MeterReading.Logic\\MeterReading.Logic.csproj": {
+    "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.Logic\\MeterReading.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Applabs Learning\\MeterReading\\MeterReading.Logic\\MeterReading.Logic.csproj",
+        "projectUniqueName": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.Logic\\MeterReading.Logic.csproj",
         "projectName": "MeterReading.Logic",
-        "projectPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.Logic\\MeterReading.Logic.csproj",
+        "projectPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.Logic\\MeterReading.Logic.csproj",
         "packagesPath": "C:\\Users\\KA Albin\\.nuget\\packages\\",
-        "outputPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.Logic\\obj\\",
+        "outputPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -181,8 +181,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj": {
-                "projectPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj"
+              "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj": {
+                "projectPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj"
               }
             }
           }

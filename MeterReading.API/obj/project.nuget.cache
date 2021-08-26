@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SUsWyQEKzMEEsI+6+3pGPs1YpKpigQ1fpBaJ+NbF907ygX/F+xE5U2Jhh7KRBcHOxYZOO6j7oDTnsLy6Ep7WsA==",
+  "dgSpecHash": "zmovRNJnlx8eTnQz7WwigrxtrtTsa1Lg8hmdD4Zy3OqQg6CNQYERaKMDCx8cj+OH0ff0uzgp5wsNqB8il3JmPA==",
   "success": true,
-  "projectFilePath": "C:\\Applabs Learning\\MeterReading\\MeterReading.API\\MeterReading.API.csproj",
+  "projectFilePath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.API\\MeterReading.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KA Albin\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
     "C:\\Users\\KA Albin\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

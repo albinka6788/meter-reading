@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "03A5BrV9iVpxOdYDRykWnJheG0nL4s+uaiVcWcaDvVWFoTY9pBtDftNdWUG4D8EgSfvHQK/MiyXyPDm+mbNnVg==",
+  "dgSpecHash": "yVcIiiIcAM0lMhM7mbJjS6pH1w1X66gSsyiLXbpU3UJy/6mkId/LdFbMJRx6KQ2SAdX7YLEuQCnJOBu4Kl5JsA==",
   "success": true,
-  "projectFilePath": "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj",
+  "projectFilePath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KA Albin\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\KA Albin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

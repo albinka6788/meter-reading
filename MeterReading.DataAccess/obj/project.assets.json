@@ -5978,11 +5978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj",
+      "projectUniqueName": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj",
       "projectName": "MeterReading.DataAccess",
-      "projectPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj",
+      "projectPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\MeterReading.DataAccess.csproj",
       "packagesPath": "C:\\Users\\KA Albin\\.nuget\\packages\\",
-      "outputPath": "C:\\Applabs Learning\\MeterReading\\MeterReading.DataAccess\\obj\\",
+      "outputPath": "C:\\Applabs Learning\\MeterReading\\meter-reading\\MeterReading.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
