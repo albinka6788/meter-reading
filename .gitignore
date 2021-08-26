@@ -6,6 +6,10 @@
 *.user
 *.userosscache
 *.sln.docstates
+_ReSharper.*
+bin
+obj
+packages
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -21,6 +25,8 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+bin/    # ignore bin directory
+*.obj   # ignore any files with .obj postfix
 
 # Visual Studio 2015 cache/options directory
 .vs/
